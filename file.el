@@ -11,4 +11,8 @@
 ;print
 (message "appear")
 
+(message "number websites: %d" 30)
+(message "website name: %s" "blockbuster.com")
+(message "list of users per day: %S" (list 9 30 20))
+
 
